@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jj4muki9yp58a56i?svg=true)](https://ci.appveyor.com/project/DubrovinMikhail/help-desk-frontend)
